@@ -1,2 +1,1 @@
-# heguanghao.github.io
-blog
+hgh
